@@ -23,7 +23,7 @@ const mySkills = {
 - Extensive experience with in-demand frontend technologies like Next.js and React.js
 - Contributed to multiple successful startups, driving thousands of dollars in revenue
 - Built some nifty full-stack solutions
-- Earned a Rising Talent badge on Upwork (pretty chuffed about that!)
+- Earned a Top Rated badge on Upwork (pretty chuffed about that!)
 - Mastered the art of working in my pajamas (aka remote work)
 
 
