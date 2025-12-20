@@ -1,7 +1,7 @@
-## Hey there! I'm [Tallha Mushtaq](https://tallha-mushtaq.vercel.app) 👋
+## Hey there! I'm [Tallha Mushtaq](https://tallha.dev) 👋
 
 ### 💡 What I'm all about
-I'm a senior software engineer with 4+ years of experience, specializing in frontend technologies while also skilled in backend development. I've got a bit of an eye for design too, which helps me create stuff that's not just functional, but looks pretty cool as well!
+I'm a senior software engineer with 5+ years of experience, specializing in frontend technologies while also skilled in backend development. I've got a bit of an eye for design too, which helps me create stuff that's not just functional, but looks pretty cool as well!
 
 With a growth mindset, I'm a strong advocate of self-education, always trying to learn more about the things that interest me the most.
 
