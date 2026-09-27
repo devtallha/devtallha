@@ -1,8 +1,8 @@
 # Hey there! I'm [Tallha Mushtaq](https://tallha.dev) 👋
 
-### 🚀 Senior MERN Stack Developer | Technical Team Lead | AI Integration Expert
+### 🚀 Senior Software Engineer | Technical Team Lead | AI Integration Expert
 
-I'm a **Senior MERN Stack Developer** with **4.8+ years** of experience architecting and leading high-performance full-stack web applications for international clients. I specialize in building scalable digital products that serve **15,000+ monthly active users** and deliver real business value through technical excellence.
+I'm a **Senior Software Engineer** with **5 years** of experience architecting and leading high-performance full-stack web applications for international clients. I specialize in building scalable digital products that serve **15,000+ monthly active users** and deliver real business value through technical excellence.
 
 ---
 
